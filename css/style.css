@@ -589,19 +589,20 @@ animation-delay: 1s;
 }
 
 .inputBox input[type="submit"]{
-  background-color: aqua;
+  background-color:#9BEED0;
   color:#011D2D;
   border: none;
   font-size: 1.1em;
-  max-width: 120px;
-  font-weight: 300;
+  max-width: 80px;
+  font-weight: 400;
   cursor: pointer;
-  padding: 14px 15px;
+  padding: 10px 15px;
   border-radius: 5px;
 }
 
 .inputBox ::placeholder{
-  color:#182c3d;
+  color:#b0c4d2;
+  font-weight: 200;
 }
 
 
